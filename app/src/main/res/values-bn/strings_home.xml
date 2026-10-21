@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Greeting (§4.2) -->
+    <string name="home_greeting_morning">শুভ সকাল</string>
+    <string name="home_greeting_noon">শুভ দুপুর</string>
+    <string name="home_greeting_evening">শুভ সন্ধ্যা</string>
+    <string name="home_greeting_night">শুভ রাত্রি</string>
+
+    <!-- Lock button (§4.7) -->
+    <string name="home_lock_cd">পরিবারের সেটিংস। ৫ সেকেন্ড চেপে ধরুন</string>
+    <string name="home_lock_hint">পরিবারের জন্য</string>
+    <string name="home_lock_open_action">সেটিংস খুলুন</string>
+
+    <!-- Family (§4.3, §7) -->
+    <string name="home_family_title">পরিবার</string>
+    <string name="home_add_family">পরিবারের সদস্য যোগ করুন</string>
+    <string name="home_call_cd">%1$sকে কল করুন</string>
+    <string name="home_call_spoken">%1$sকে কল</string>
+    <string name="home_no_number_cd">%1$s, নম্বর নেই</string>
+
+    <!-- Tiles (§4.4, §4.5) -->
+    <string name="home_youtube">ইউটিউব</string>
+    <string name="home_camera">ক্যামেরা</string>
+    <string name="home_gallery">ছবি</string>
+    <string name="home_torch">টর্চ</string>
+    <string name="home_torch_on">চালু</string>
+    <string name="home_torch_off">বন্ধ</string>
+    <string name="home_torch_on_spoken">টর্চ চালু</string>
+    <string name="home_torch_off_spoken">টর্চ বন্ধ</string>
+
+    <!-- Internet bar (§4.6) -->
+    <string name="home_internet_ok_title">ইন্টারনেট চালু আছে</string>
+    <string name="home_internet_wifi_sub">ওয়াইফাই দিয়ে চলছে</string>
+    <string name="home_internet_mobile_wifi_off_sub">ওয়াইফাই বন্ধ · মোবাইল ডেটা চলছে</string>
+    <string name="home_internet_mobile_sub">মোবাইল ডেটা চলছে</string>
+    <string name="home_internet_no_net_title">ওয়াইফাই আছে, নেট নেই</string>
+    <string name="home_internet_no_net_sub">রাউটার বন্ধ করে আবার চালু করুন</string>
+    <string name="home_internet_off_title">ইন্টারনেট বন্ধ</string>
+    <string name="home_internet_off_sub">ঠিক করতে এখানে চাপুন</string>
+
+    <!-- Friendly messages (§4.3, §4.4, §4.5, §7) -->
+    <string name="home_msg_ok">ঠিক আছে</string>
+    <string name="home_msg_no_number">নম্বর নেই</string>
+    <string name="home_msg_call_failed">এই ফোন থেকে কল করা যাচ্ছে না</string>
+    <string name="home_msg_youtube_missing">YouTube ইনস্টল নেই</string>
+    <string name="home_msg_camera_failed">ক্যামেরা খোলা যাচ্ছে না</string>
+    <string name="home_msg_gallery_failed">ছবি খোলা যাচ্ছে না</string>
+    <string name="home_msg_torch_busy">এখন টর্চ চালু করা যাচ্ছে না</string>
+    <string name="home_msg_panel_failed">ইন্টারনেটের সেটিংস খোলা যাচ্ছে না</string>
+    <string name="home_msg_app_missing">এই অ্যাপটি আর ইনস্টল নেই</string>
+</resources>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Picture lock, Settings, Edit member and Onboarding (Hindi). -->
+<resources>
+    <!-- Common actions -->
+    <string name="set_action_close">बंद करें</string>
+    <string name="set_action_save">सेव करें</string>
+    <string name="set_action_cancel">रद्द करें</string>
+    <string name="set_action_delete">हटाएँ</string>
+    <string name="set_action_ok">ठीक है</string>
+
+    <!-- Picture lock -->
+    <string name="lock_title">सिर्फ़ परिवार के लिए</string>
+    <string name="lock_subtitle">अपनी 3 तस्वीरें क्रम से दबाएँ</string>
+    <string name="lock_progress">%2$d में से %1$d तस्वीरें चुनी गईं</string>
+    <string name="lock_wait">कृपया %1$d सेकंड रुकें</string>
+    <string name="lock_pic_cow">गाय</string>
+    <string name="lock_pic_mango">आम</string>
+    <string name="lock_pic_house">घर</string>
+    <string name="lock_pic_sun">सूरज</string>
+    <string name="lock_pic_fish">मछली</string>
+    <string name="lock_pic_flower">फूल</string>
+    <string name="lock_pic_boat">नाव</string>
+    <string name="lock_pic_tree">पेड़</string>
+    <string name="lock_pic_star">तारा</string>
+    <string name="setlock_title">तस्वीर वाला ताला</string>
+    <string name="setlock_choose">3 बार तस्वीर दबाएँ और क्रम याद रखें। एक ही तस्वीर एक से ज़्यादा बार दबा सकते हैं।</string>
+    <string name="setlock_confirm">वही 3 तस्वीरें फिर से दबाएँ</string>
+    <string name="setlock_mismatch">मेल नहीं खाया। फिर से 3 तस्वीरें चुनें।</string>
+
+    <!-- Settings -->
+    <string name="settings_title">सेटिंग्स</string>
+    <string name="settings_family">संपर्क और समूह</string>
+    <string name="settings_calls">कॉल</string>
+    <string name="settings_text_size">अक्षरों का आकार</string>
+    <string name="settings_tiles">होम स्क्रीन पर दिखाएँ</string>
+    <string name="settings_language">भाषा</string>
+    <string name="settings_read_aloud">आवाज़</string>
+    <string name="settings_security">सुरक्षा</string>
+    <string name="settings_home">होम स्क्रीन</string>
+    <string name="settings_more">और</string>
+
+    <string name="family_add">परिवार का सदस्य जोड़ें</string>
+    <string name="family_empty">अभी कोई सदस्य नहीं जोड़ा गया।</string>
+    <string name="family_full">ज़्यादा से ज़्यादा %1$d सदस्य जोड़ सकते हैं।</string>
+    <string name="family_no_number">फ़ोन नंबर नहीं है</string>
+    <string name="family_move_up">%1$s को ऊपर करें</string>
+    <string name="family_move_down">%1$s को नीचे करें</string>
+    <string name="family_delete">%1$s को हटाएँ</string>
+    <string name="delete_title">सदस्य को हटाएँ?</string>
+    <string name="delete_message">%1$s और उनकी फ़ोटो होम स्क्रीन से हटा दी जाएगी।</string>
+
+    <string name="one_tap_call">एक छुअन में कॉल</string>
+    <string name="one_tap_call_desc">परिवार के कार्ड पर दबाते ही डायलर खोले बिना सीधे कॉल लगेगी।</string>
+    <string name="one_tap_call_no_permission">कॉल की अनुमति बंद है, इसलिए कार्ड दबाने पर डायलर खुलेगा।</string>
+    <string name="one_tap_call_denied">अनुमति नहीं मिली। परिवार के कार्ड पर दबाने से नंबर भरा हुआ डायलर खुलेगा; वहाँ हरा कॉल बटन दबाएँ।</string>
+
+    <string name="text_size_normal">सामान्य</string>
+    <string name="text_size_large">बड़ा</string>
+    <string name="text_size_extra_large">बहुत बड़ा</string>
+
+    <string name="set_tile_youtube">यूट्यूब</string>
+    <string name="set_tile_camera">कैमरा</string>
+    <string name="set_tile_gallery">गैलरी</string>
+    <string name="set_tile_torch">टॉर्च</string>
+    <string name="set_tile_internet">इंटरनेट की स्थिति</string>
+
+    <string name="read_aloud">बटन का नाम बोलकर सुनाएँ</string>
+    <string name="read_aloud_desc">कोई भी बटन दबाने पर उसका नाम सुनाई देगा।</string>
+    <string name="bengali_voice_missing">हिंदी आवाज़ इंस्टॉल नहीं है। Google Text-to-Speech में इंस्टॉल करें; तब तक अंग्रेज़ी इस्तेमाल होगी।</string>
+    <string name="bengali_voice_install">हिंदी आवाज़ इंस्टॉल करें</string>
+
+    <string name="change_lock">तस्वीर वाला ताला बदलें</string>
+    <string name="lock_is_set">तस्वीर वाला ताला चालू है</string>
+    <string name="lock_not_set">अभी कोई तस्वीर वाला ताला नहीं: कोई भी सेटिंग्स खोल सकता है</string>
+
+    <string name="set_home_is_default">एक छुअन अब होम स्क्रीन है।</string>
+    <string name="set_home_not_default">एक छुअन अभी होम स्क्रीन नहीं है।</string>
+    <string name="set_home_make_default">एक छुअन को होम स्क्रीन बनाएँ</string>
+    <string name="set_home_switch_back">पुरानी होम स्क्रीन पर वापस जाएँ</string>
+
+    <string name="open_phone_settings">फ़ोन की सेटिंग्स खोलें</string>
+    <string name="open_phone_settings_desc">वाई-फ़ाई, आवाज़, डिस्प्ले और बाकी सेटिंग्स के लिए</string>
+    <string name="privacy_policy">प्राइवेसी पॉलिसी</string>
+    <string name="privacy_policy_desc">कोई जानकारी न ली जाती है, न किसी को दी जाती है</string>
+    <string name="app_version">ऐप का वर्ज़न</string>
+
+    <string name="set_msg_could_not_open">इस फ़ोन पर यह नहीं खुल सका।</string>
+    <string name="set_msg_no_contacts_app">कोई कॉन्टैक्ट्स ऐप नहीं मिला। नंबर खुद लिख दें।</string>
+    <string name="set_msg_no_photo_picker">इस फ़ोन पर फ़ोटो चुनने का तरीका नहीं मिला।</string>
+    <string name="set_msg_photo_failed">यह फ़ोटो इस्तेमाल नहीं हो सकी। कोई दूसरी फ़ोटो चुनें।</string>
+
+    <!-- Edit member -->
+    <string name="edit_title_add">परिवार का सदस्य जोड़ें</string>
+    <string name="edit_title_edit">सदस्य की जानकारी बदलें</string>
+    <string name="edit_name">नाम</string>
+    <string name="edit_name_hint">जैसे: बेटा, रमेश</string>
+    <string name="edit_name_required">कृपया नाम लिखें</string>
+    <string name="edit_phone">फ़ोन नंबर</string>
+    <string name="edit_phone_invalid">यह नंबर बहुत छोटा लग रहा है</string>
+    <string name="edit_pick_contact">कॉन्टैक्ट्स से चुनें</string>
+    <string name="edit_add_photo">फ़ोटो जोड़ें</string>
+    <string name="edit_change_photo">फ़ोटो बदलें</string>
+    <string name="edit_remove_photo">हटाएँ</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_step">चरण %1$d / %2$d</string>
+    <string name="onboarding_welcome_title">एक छुअन में आपका स्वागत है</string>
+    <string name="onboarding_welcome_body">यह बुज़ुर्गों के लिए एक आसान होम स्क्रीन है। परिवार की फ़ोटो पर एक छुअन से कॉल, यूट्यूब, कैमरा, गैलरी और टॉर्च के बड़े बटन, और इंटरनेट चालू है या नहीं, साफ़ दिखता है। कोई भी जानकारी फ़ोन से बाहर नहीं जाती। यह सेटअप परिवार का कोई सदस्य करे।</string>
+    <string name="onboarding_begin">सेटअप शुरू करें</string>
+    <string name="onboarding_family_title">परिवार के लोग जोड़ें</string>
+    <string name="onboarding_family_body">जिन्हें सबसे ज़्यादा कॉल किया जाता है, उन्हें जोड़ें। फ़ोटो और बाकी लोग बाद में सेटिंग्स में जोड़ सकते हैं।</string>
+    <string name="onboarding_add_member">इस व्यक्ति को जोड़ें</string>
+    <string name="onboarding_lock_title">तस्वीर वाला ताला लगाएँ</string>
+    <string name="onboarding_lock_body">सेटिंग्स पर 3 तस्वीरों का ताला लगता है, ताकि सिर्फ़ परिवार ही इन्हें बदल सके।</string>
+    <string name="onboarding_keep_lock">पुराना ताला ही रखें</string>
+    <string name="onboarding_home_title">होम स्क्रीन बनाएँ</string>
+    <string name="onboarding_home_body">एक छुअन को होम ऐप चुनें, ताकि होम बटन दबाते ही यह खुले।</string>
+    <string name="onboarding_home_already">एक छुअन पहले से ही होम स्क्रीन है।</string>
+    <string name="onboarding_done_title">सब तैयार है!</string>
+    <string name="onboarding_done_body">बाद में सेटिंग्स बदलने के लिए होम स्क्रीन पर छोटा ताला बटन दबाकर रखें, फिर अपनी 3 तस्वीरें दबाएँ।</string>
+    <string name="onboarding_start">होम स्क्रीन पर जाएँ</string>
+    <string name="onboarding_next">आगे</string>
+    <string name="onboarding_skip">छोड़ें</string>
+    <string name="onboarding_call_title">एक छुअन में कॉल</string>
+    <string name="onboarding_call_body">यह चालू होने पर परिवार की फ़ोटो छूते ही सीधे कॉल लगेगी। फ़ोन एक बार कॉल करने की अनुमति माँगेगा। छोड़ने पर फ़ोटो छूने से नंबर भरा हुआ डायलर खुलेगा।</string>
+    <string name="onboarding_call_allow">सीधी कॉल की अनुमति दें</string>
+    <string name="onboarding_call_on">एक छुअन में कॉल चालू है।</string>
+    <string name="settings_favorite_apps">पसंदीदा ऐप</string>
+    <string name="favorite_apps_desc">बुज़ुर्ग जो ऐप इस्तेमाल करते हैं (जैसे WhatsApp), ऐसे %1$d ऐप तक जोड़ें। ये होम स्क्रीन पर बड़े बटन बनकर दिखेंगे।</string>
+    <string name="favorite_apps_add">ऐप जोड़ें</string>
+    <string name="favorite_apps_done">हो गया</string>
+    <string name="favorite_apps_remove">%1$s हटाएँ</string>
+    <string name="favorite_apps_missing">ऐप इंस्टॉल नहीं है</string>
+    <string name="favorite_apps_full">ज़्यादा से ज़्यादा %1$d ऐप जोड़ सकते हैं। नया जोड़ने के लिए एक हटाएँ।</string>
+    <string name="favorite_apps_pick_title">ऐप चुनें (%2$d में से %1$d)</string>
+    <string name="settings_theme">थीम</string>
+    <string name="theme_classic">क्लासिक</string>
+    <string name="theme_classic_dark">क्लासिक डार्क</string>
+    <string name="theme_sunrise">सूर्योदय</string>
+    <string name="theme_ocean">समुद्र</string>
+    <string name="theme_meadow">हरियाली</string>
+    <string name="theme_midnight">आधी रात</string>
+    <string name="settings_icons">आइकन</string>
+    <string name="icons_with_text">आइकन और नाम</string>
+    <string name="icons_only">सिर्फ़ आइकन</string>
+    <string name="icon_size">आइकन का आकार (ऐप और परिवार की फ़ोटो)</string>
+    <string name="group_new">नया समूह</string>
+    <string name="group_new_hint">दोस्त या ऑफ़िस जैसे समूह बनाएँ। हर समूह अपने लोगों के साथ होम स्क्रीन पर दिखेगा (ज़्यादा से ज़्यादा %1$d समूह)।</string>
+    <string name="groups_full">ज़्यादा से ज़्यादा %1$d समूह बना सकते हैं।</string>
+    <string name="group_rename_title">समूह का नाम बदलें</string>
+    <string name="group_name_hint">समूह का नाम, जैसे दोस्त</string>
+    <string name="group_delete_title">समूह हटाएँ?</string>
+    <string name="group_delete_message">“%1$s” समूह और उसके सभी लोगों को हटाएँ? यह वापस नहीं होगा।</string>
+    <string name="group_rename_cd">%1$s का नाम बदलें</string>
+    <string name="group_delete_cd">%1$s समूह हटाएँ</string>
+    <string name="group_empty">इस समूह में अभी कोई नहीं है।</string>
+    <string name="group_add_contact">%1$s में जोड़ें</string>
+    <string name="edit_group">समूह</string>
+    <string name="favorite_apps_search">ऐप खोजें</string>
+    <string name="favorite_apps_search_clear">खोज साफ़ करें</string>
+    <string name="favorite_apps_no_match">खोज से मिलता कोई ऐप नहीं है।</string>
+    <string name="settings_home_order">होम स्क्रीन का क्रम</string>
+    <string name="home_order_desc">होम स्क्रीन पर चीज़ों की जगह बदलने के लिए उन्हें ऊपर या नीचे करें।</string>
+    <string name="home_order_contacts">परिवार और समूह</string>
+    <string name="home_order_reset">पहले वाला क्रम</string>
+    <string name="onboarding_apps_title">होम स्क्रीन के ऐप</string>
+    <string name="onboarding_apps_body">बुज़ुर्ग जो ऐप इस्तेमाल करते हैं, उन पर टिक करें। कॉल और मैसेज वाले ऐप परिवार के ठीक नीचे रहेंगे। बाद में सेटिंग्स में बदल सकते हैं।</string>
+    <string name="onboarding_apps_more">और ऐप…</string>
+    <string name="onboarding_apps_none">इस फ़ोन पर सुझाए गए ऐप नहीं मिले।</string>
+    <string name="arrange_title">होम स्क्रीन सजाएँ</string>
+    <string name="arrange_open">होम स्क्रीन सजाएँ</string>
+    <string name="arrange_hint">किसी चीज़ को दबाकर रखें, फिर खींचकर नई जगह ले जाएँ। सेव करने के लिए \"हो गया\" दबाएँ।</string>
+    <string name="settings_about">ऐप के बारे में</string>
+    <string name="about_developed_by">PNT Apps द्वारा बनाया गया</string>
+    <string name="about_pnt_apps">PNT Apps के बारे में</string>
+    <string name="terms_of_use">उपयोग की शर्तें</string>
+</resources>

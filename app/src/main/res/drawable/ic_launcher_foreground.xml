@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Adaptive icon foreground: a white house outline with a warm heart inside.
+    All artwork sits inside x/y 30..78 of the 108 viewport, i.e. well within the 66dp (21..87) safe zone.
+    Also used as the <monochrome> layer (Android 13+ themed icons use only its alpha).
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Roof -->
+    <path
+        android:pathData="M30,52 L54,30 L78,52"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <!-- Walls and floor -->
+    <path
+        android:pathData="M37,46 L37,78 L71,78 L71,46"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <!-- Heart -->
+    <path
+        android:fillColor="#FFD166"
+        android:pathData="M54,71 C54,71 43.5,64.5 43.5,58 C43.5,54.9 45.9,52.5 49,52.5 C51.1,52.5 52.9,53.6 54,55.4 C55.1,53.6 56.9,52.5 59,52.5 C62.1,52.5 64.5,54.9 64.5,58 C64.5,64.5 54,71 54,71 Z" />
+</vector>

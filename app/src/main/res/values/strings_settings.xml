@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Picture lock, Settings, Edit member and Onboarding (English). -->
+<resources>
+    <!-- Common actions -->
+    <string name="set_action_close">Close</string>
+    <string name="set_action_save">Save</string>
+    <string name="set_action_cancel">Cancel</string>
+    <string name="set_action_delete">Delete</string>
+    <string name="set_action_ok">OK</string>
+
+    <!-- Picture lock -->
+    <string name="lock_title">Family only</string>
+    <string name="lock_subtitle">Tap your 3 pictures in order</string>
+    <string name="lock_progress">%1$d of %2$d pictures chosen</string>
+    <string name="lock_wait">Please wait %1$d seconds</string>
+    <string name="lock_pic_cow">Cow</string>
+    <string name="lock_pic_mango">Mango</string>
+    <string name="lock_pic_house">House</string>
+    <string name="lock_pic_sun">Sun</string>
+    <string name="lock_pic_fish">Fish</string>
+    <string name="lock_pic_flower">Flower</string>
+    <string name="lock_pic_boat">Boat</string>
+    <string name="lock_pic_tree">Tree</string>
+    <string name="lock_pic_star">Star</string>
+    <string name="setlock_title">Picture lock</string>
+    <string name="setlock_choose">Tap 3 pictures and remember the order. The same picture can be used more than once.</string>
+    <string name="setlock_confirm">Tap the same 3 pictures again</string>
+    <string name="setlock_mismatch">They did not match. Choose 3 pictures again.</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_family">Contacts and groups</string>
+    <string name="settings_calls">Calls</string>
+    <string name="settings_text_size">Text size</string>
+    <string name="settings_tiles">Show on home screen</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_read_aloud">Voice</string>
+    <string name="settings_security">Security</string>
+    <string name="settings_home">Home screen</string>
+    <string name="settings_more">More</string>
+
+    <string name="family_add">Add family member</string>
+    <string name="family_empty">No family members yet.</string>
+    <string name="family_full">You can add up to %1$d family members.</string>
+    <string name="family_no_number">No phone number</string>
+    <string name="family_move_up">Move %1$s up</string>
+    <string name="family_move_down">Move %1$s down</string>
+    <string name="family_delete">Delete %1$s</string>
+    <string name="delete_title">Delete family member?</string>
+    <string name="delete_message">%1$s and their photo will be removed from the home screen.</string>
+
+    <string name="one_tap_call">One-tap call</string>
+    <string name="one_tap_call_desc">Tapping a family card calls straight away instead of opening the dialer.</string>
+    <string name="one_tap_call_no_permission">Call permission is off, so tapping a card will open the dialer.</string>
+    <string name="one_tap_call_denied">Permission was not given. Tapping a family card will open the dialer with the number filled in; press the green call button there.</string>
+
+    <string name="text_size_normal">Normal</string>
+    <string name="text_size_large">Large</string>
+    <string name="text_size_extra_large">Extra large</string>
+
+    <string name="set_tile_youtube">YouTube</string>
+    <string name="set_tile_camera">Camera</string>
+    <string name="set_tile_gallery">Gallery</string>
+    <string name="set_tile_torch">Torch</string>
+    <string name="set_tile_internet">Internet status bar</string>
+
+    <string name="read_aloud">Read buttons aloud</string>
+    <string name="read_aloud_desc">Speaks the name of each button when it is tapped.</string>
+    <string name="bengali_voice_missing">Bengali voice is not installed. Install it in Google Text-to-Speech; English is used until then.</string>
+    <string name="bengali_voice_install">Install Bengali voice</string>
+
+    <string name="change_lock">Change picture lock</string>
+    <string name="lock_is_set">Picture lock is on</string>
+    <string name="lock_not_set">No picture lock yet: anyone can open settings</string>
+
+    <string name="set_home_is_default">Ek Chhoan is the home screen.</string>
+    <string name="set_home_not_default">Ek Chhoan is not the home screen yet.</string>
+    <string name="set_home_make_default">Make Ek Chhoan the home screen</string>
+    <string name="set_home_switch_back">Switch back to normal home</string>
+
+    <string name="open_phone_settings">Open phone settings</string>
+    <string name="open_phone_settings_desc">For Wi-Fi, sound, display and other phone settings</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="privacy_policy_desc">No data is collected or shared</string>
+    <string name="app_version">App version</string>
+
+    <string name="set_msg_could_not_open">Could not open this on this phone.</string>
+    <string name="set_msg_no_contacts_app">No contacts app found. Type the number instead.</string>
+    <string name="set_msg_no_photo_picker">No photo picker found on this phone.</string>
+    <string name="set_msg_photo_failed">Could not use this photo. Try another one.</string>
+
+    <!-- Edit member -->
+    <string name="edit_title_add">Add family member</string>
+    <string name="edit_title_edit">Edit family member</string>
+    <string name="edit_name">Name</string>
+    <string name="edit_name_hint">e.g. Son, Rahim</string>
+    <string name="edit_name_required">Please enter a name</string>
+    <string name="edit_phone">Phone number</string>
+    <string name="edit_phone_invalid">This number looks too short</string>
+    <string name="edit_pick_contact">Pick from contacts</string>
+    <string name="edit_add_photo">Add photo</string>
+    <string name="edit_change_photo">Change photo</string>
+    <string name="edit_remove_photo">Remove</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_step">Step %1$d of %2$d</string>
+    <string name="onboarding_welcome_title">Welcome to Ek Chhoan</string>
+    <string name="onboarding_welcome_body">A simple home screen for elders: call family by tapping their photo, big buttons for YouTube, Camera, Gallery and Torch, and a clear internet status. No data ever leaves the phone. A family member should do this setup.</string>
+    <string name="onboarding_begin">Start setup</string>
+    <string name="onboarding_family_title">Add family members</string>
+    <string name="onboarding_family_body">Add the people your elder calls most. You can add photos and more people later in Settings.</string>
+    <string name="onboarding_add_member">Add this person</string>
+    <string name="onboarding_lock_title">Set a picture lock</string>
+    <string name="onboarding_lock_body">Settings are locked with 3 pictures so only family can change them.</string>
+    <string name="onboarding_keep_lock">Keep current lock</string>
+    <string name="onboarding_home_title">Make it the home screen</string>
+    <string name="onboarding_home_body">Choose Ek Chhoan as the home app so it opens whenever the Home button is pressed.</string>
+    <string name="onboarding_home_already">Ek Chhoan is already the home screen.</string>
+    <string name="onboarding_done_title">All set!</string>
+    <string name="onboarding_done_body">To change settings later, press and hold the small lock button on the home screen, then tap your 3 pictures.</string>
+    <string name="onboarding_start">Go to home screen</string>
+    <string name="onboarding_next">Next</string>
+    <string name="onboarding_skip">Skip</string>
+    <string name="onboarding_call_title">Call with one touch</string>
+    <string name="onboarding_call_body">When this is on, touching a family photo calls that person straight away. The phone will ask once for permission to make calls. If you skip this, touching a photo opens the dialer with the number filled in.</string>
+    <string name="onboarding_call_allow">Allow direct calls</string>
+    <string name="onboarding_call_on">One-touch calling is on.</string>
+    <string name="settings_favorite_apps">Favourite apps</string>
+    <string name="favorite_apps_desc">Add up to %1$d apps the elder uses, like WhatsApp. They appear as big buttons on the home screen.</string>
+    <string name="favorite_apps_add">Add app</string>
+    <string name="favorite_apps_done">Done</string>
+    <string name="favorite_apps_remove">Remove %1$s</string>
+    <string name="favorite_apps_missing">App not installed</string>
+    <string name="favorite_apps_full">You can add up to %1$d apps. Remove one to add another.</string>
+    <string name="favorite_apps_pick_title">Choose apps (%1$d of %2$d)</string>
+    <string name="settings_theme">Theme</string>
+    <string name="theme_classic">Classic</string>
+    <string name="theme_classic_dark">Classic Dark</string>
+    <string name="theme_sunrise">Sunrise</string>
+    <string name="theme_ocean">Ocean</string>
+    <string name="theme_meadow">Meadow</string>
+    <string name="theme_midnight">Midnight</string>
+    <string name="settings_icons">Icons</string>
+    <string name="icons_with_text">Icons with names</string>
+    <string name="icons_only">Icons only</string>
+    <string name="icon_size">Icon size (apps and family photos)</string>
+    <string name="group_new">New group</string>
+    <string name="group_new_hint">Make groups like Friends or Office. Each shows on the home screen with its own contacts (up to %1$d groups).</string>
+    <string name="groups_full">You can make up to %1$d groups.</string>
+    <string name="group_rename_title">Rename group</string>
+    <string name="group_name_hint">Group name, e.g. Friends</string>
+    <string name="group_delete_title">Delete group?</string>
+    <string name="group_delete_message">Delete the group “%1$s” and all its contacts? This cannot be undone.</string>
+    <string name="group_rename_cd">Rename %1$s</string>
+    <string name="group_delete_cd">Delete group %1$s</string>
+    <string name="group_empty">No contacts in this group yet.</string>
+    <string name="group_add_contact">Add to %1$s</string>
+    <string name="edit_group">Group</string>
+    <string name="favorite_apps_search">Search apps</string>
+    <string name="favorite_apps_search_clear">Clear search</string>
+    <string name="favorite_apps_no_match">No apps match your search.</string>
+    <string name="settings_home_order">Home screen order</string>
+    <string name="home_order_desc">Move items up or down to change their place on the home screen.</string>
+    <string name="home_order_contacts">Family and groups</string>
+    <string name="home_order_reset">Reset to default order</string>
+    <string name="onboarding_apps_title">Apps on the home screen</string>
+    <string name="onboarding_apps_body">Tick the apps your elder uses. Calling and messaging apps are placed right below the family. You can change this later in Settings.</string>
+    <string name="onboarding_apps_more">More apps…</string>
+    <string name="onboarding_apps_none">No suggested apps found on this phone.</string>
+    <string name="arrange_title">Rearrange home screen</string>
+    <string name="arrange_open">Rearrange home screen</string>
+    <string name="arrange_hint">Press and hold an item, then drag it to a new place. Tap Done to save.</string>
+    <string name="settings_about">About</string>
+    <string name="about_developed_by">Developed by PNT Apps</string>
+    <string name="about_pnt_apps">About PNT Apps</string>
+    <string name="terms_of_use">Terms of use</string>
+</resources>

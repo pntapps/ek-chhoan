@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Greeting (§4.2) -->
+    <string name="home_greeting_morning">Good morning</string>
+    <string name="home_greeting_noon">Good afternoon</string>
+    <string name="home_greeting_evening">Good evening</string>
+    <string name="home_greeting_night">Good night</string>
+
+    <!-- Lock button (§4.7) -->
+    <string name="home_lock_cd">Settings for family. Hold for 5 seconds</string>
+    <string name="home_lock_hint">For family</string>
+    <string name="home_lock_open_action">Open settings</string>
+
+    <!-- Family (§4.3, §7) -->
+    <string name="home_family_title">Family</string>
+    <string name="home_add_family">Add family members</string>
+    <string name="home_call_cd">Call %1$s</string>
+    <string name="home_call_spoken">Calling %1$s</string>
+    <string name="home_no_number_cd">%1$s, no phone number</string>
+
+    <!-- Tiles (§4.4, §4.5) -->
+    <string name="home_youtube">YouTube</string>
+    <string name="home_camera">Camera</string>
+    <string name="home_gallery">Photos</string>
+    <string name="home_torch">Torch</string>
+    <string name="home_torch_on">On</string>
+    <string name="home_torch_off">Off</string>
+    <string name="home_torch_on_spoken">Torch on</string>
+    <string name="home_torch_off_spoken">Torch off</string>
+
+    <!-- Internet bar (§4.6) -->
+    <string name="home_internet_ok_title">Internet is working</string>
+    <string name="home_internet_wifi_sub">Using Wi-Fi</string>
+    <string name="home_internet_mobile_wifi_off_sub">Wi-Fi off · Mobile data working</string>
+    <string name="home_internet_mobile_sub">Mobile data working</string>
+    <string name="home_internet_no_net_title">Wi-Fi on, no internet</string>
+    <string name="home_internet_no_net_sub">Turn the router off and on again</string>
+    <string name="home_internet_off_title">Internet is off</string>
+    <string name="home_internet_off_sub">Tap here to fix</string>
+
+    <!-- Friendly messages (§4.3, §4.4, §4.5, §7) -->
+    <string name="home_msg_ok">OK</string>
+    <string name="home_msg_no_number">No number</string>
+    <string name="home_msg_call_failed">Calls can\'t be made from this phone</string>
+    <string name="home_msg_youtube_missing">YouTube is not installed</string>
+    <string name="home_msg_camera_failed">The camera can\'t be opened</string>
+    <string name="home_msg_gallery_failed">Photos can\'t be opened</string>
+    <string name="home_msg_torch_busy">The torch can\'t be turned on right now</string>
+    <string name="home_msg_panel_failed">Internet settings can\'t be opened</string>
+    <string name="home_msg_app_missing">This app is not installed any more</string>
+</resources>
